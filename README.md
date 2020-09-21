@@ -2,9 +2,9 @@
 ## Criminal Justice Team 1
 * Jazmia Henry, Kristin Lee, Anna Sawicka, Heta Joshi 
 
-** Mentors: Harshit Saraswat, Bruce Hoffman **
+**Mentors: Harshit Saraswat, Bruce Hoffman**
 
-** SME: Samantha Wigglesworth **
+**SME: Samantha Wigglesworth**
 
 # The Problem
 
