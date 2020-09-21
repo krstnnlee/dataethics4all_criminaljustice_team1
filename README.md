@@ -106,6 +106,13 @@ As we can see from our analysis, the rates of conviction are similar across race
     
 - International approach may not be accessible due to foreign privacy laws
 
+### Responsibilities
+
+        Data Gathering and Analysis: Jazmia Henry
+        Policy Research and Article Writing: Anna Sawicka and Heta Joshi
+        Policy Report Editing and Project Organization: Kristin Lee
+        Presentation: Jazmia Henry and Kristin Lee
+
 
 
 
