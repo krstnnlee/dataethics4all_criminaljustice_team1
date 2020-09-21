@@ -45,7 +45,7 @@ We compare our findings to data on convictions and prosecutions of people in Eng
 
 ![Slide1](https://user-images.githubusercontent.com/48301423/93796570-052d9500-fc09-11ea-9f5b-04f9745ae8f6.png)
 
-*Comparison of Arrests in US versus UK
+*Comparison of Arrests in US versus UK*
 
 
 ![ethnicity_pnt_uk](https://user-images.githubusercontent.com/48301423/93733595-011b5c00-fba4-11ea-944b-273ccb3b793f.png)
