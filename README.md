@@ -68,7 +68,7 @@ As we can see from our analysis, the rates of conviction are similar across race
 
 # Solution
 
-<img width="1160" alt="Solution_ethics4all" src="https://user-images.githubusercontent.com/48301423/93735143-f19f1180-fba9-11ea-90f0-aaedc2aae65b.png">
+<img width="868" alt="Screen Shot 2020-09-21 at 8 52 35 AM" src="https://user-images.githubusercontent.com/48301423/93768745-d81cba80-fbe7-11ea-80a7-bdda0ef6fc71.png">
 
 
 ## Purpose 
