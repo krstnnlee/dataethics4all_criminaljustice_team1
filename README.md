@@ -1,6 +1,6 @@
 # DataEthics4All Hackathon Submission:
 ## Criminal Justice Team 1
-* Jazmia Henry, Kristin Lee, Anna Sawicka, Heta Joshi 
+**Participants: Jazmia Henry, Kristin Lee, Anna Sawicka, Heta Joshi**
 
 **Mentors: Harshit Saraswat, Bruce Hoffman**
 
