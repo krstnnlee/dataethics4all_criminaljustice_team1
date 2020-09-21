@@ -64,7 +64,14 @@ As we can see from our analysis, the rates of conviction are similar across race
 
 *Raw Data on Prosecution numbers by Race: UK*
 
+
+
 # Solution
+
+<img width="1160" alt="Solution_ethics4all" src="https://user-images.githubusercontent.com/48301423/93735143-f19f1180-fba9-11ea-90f0-aaedc2aae65b.png">
+
+
+## Purpose 
 
 - Comparative Law and Legal Transplants 
 
