@@ -83,9 +83,9 @@ As we can see from our analysis, the rates of conviction are similar across race
 
 - It will lead to a deeper analysis of what is “effective” policy:
 
-    -Eg. If mandatory bias training is required, but the data shows that bias is still present, why? Bias training inadequate?
+    - Eg. If mandatory bias training is required, but the data shows that bias is still present, why? Bias training inadequate?
     
-    -Eg. if your policies are similar within different countries, but the effects are different: why? Where else is bias creeping in?
+    - Eg. if your policies are similar within different countries, but the effects are different: why? Where else is bias creeping in?
     
 - Can eventually build out to a ML model that can use predictive analysis to can mitigate future instances of biases in a given criminal justice system.
 
