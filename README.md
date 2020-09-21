@@ -42,14 +42,10 @@ Next, we create a breakout of crimes commited by race in the United States.
 
 We compare our findings to data on convictions and prosecutions of people in England and Wales. There, we see a disparity between the comparions of arrests across race and total arrests overall.
 
-![Slide1](https://user-images.githubusercontent.com/48301423/93733557-ca454600-fba3-11ea-849a-003ec2cdf4d3.png)
 
-*Arrests in the US overall*
+![Slide1](https://user-images.githubusercontent.com/48301423/93796570-052d9500-fc09-11ea-9f5b-04f9745ae8f6.png)
 
-
-![Slide2](https://user-images.githubusercontent.com/48301423/93733526-a4b83c80-fba3-11ea-99c6-d127d5bcafd4.png)
-
-*Arrests in the UK overall*
+*Comparison of Arrests in US versus UK
 
 
 ![ethnicity_pnt_uk](https://user-images.githubusercontent.com/48301423/93733595-011b5c00-fba4-11ea-944b-273ccb3b793f.png)
