@@ -1,4 +1,4 @@
-# DataEthics4All Hackathon Submission:
+# Ethics4All Hackathon Submission:
 ## Criminal Justice Team 1
 **Participants: Jazmia Henry, Kristin Lee, Anna Sawicka, Heta Joshi**
 
